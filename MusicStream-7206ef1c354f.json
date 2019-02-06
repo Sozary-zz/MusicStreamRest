@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "musicstream-1549374372658",
+  "private_key_id": "7206ef1c354f738267761f31a51da608a0b3e220",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfAKDxbQXyi+NV\nJUrGbL7YAD+BceoMCve2McwawqljcOuGA6MtOk0YcvMkPGX8yTXeuzQsEypmH/2o\nMc6ICoDGpSqwW2IpEG/wnw7ZBsLE5ZDmO57HB8cjeXVmd6ImSjBEudDOcHgFOGIM\nLNygflBLDmfRQHh7+UL3cT21tnMnN73MrQkV9Q97Znp+2qmBvqLOSOxk2A/CTuK9\nBE4yXyfmyk4qgDqBoJBhSGXIc5roa6jaoGlDlOdHGn4bvNSOv8kdQdJeYJ8Qr2ku\nmM2ZfzA0XhseEbEbEzKYhbRf3YHeB4VjuMf7RdZQvlmgFOY5IlIlXs+hkmf1uWWX\n8qjXpHEPAgMBAAECggEAAtwysFUU6fXTEp+GTMcQsIr/rSNhtUs1+0ZzWZHh2cUd\nptvVC6NEfnNwvbE90/Nyx9EELvfb57wmvMBg6tFSx52F+wV0QzrqbOCaDJSD5lK8\nhlXbECADk6006WKbJOdCCz/6bzubYWWU+otRvNNWY7jIzul0PuqnvsP2Sd3ZDILx\nueRshXcSm5HArVTPRywR4Eg/G0OIM2bz26cHOFo7VrFN2wkOyVyhSNupPeyHsKix\nu+b4R84TgjP75KBHZmoHDWrECJMA7FiD02f+UBekPSzAHxBAVK1LTyyp9kGudll7\nFZLHY0AuT+Xda2NQeFd7e1lmf8cs91820nYAKD6S5QKBgQDORkMyD/sFI6DfTRw9\nMAnqhZ0MHuyHMthHgi9p56F028FjbHBp4QMCyXTZF5p3nlFSN/YkT9x5/5MfJukL\n+WOgHiGWGqzUtTxFcUfrHq0mm2/m5LcaRynh22IZbTuc/ZP0xIWylntBfTx8ld32\nMYs5cYonqcQn9fFwI3AAZeYmzQKBgQDFVRY4iHdSm5RXmWvWxUG8Bjqapdjfy6x0\nS2sj4rnkHqXgL9Pm/Jk0CUJzt17fMhDMa7Sx4PndPtG1b2HHtvN9mT6sPggSbT6q\n/EE8Q0n36gPQORscdcxFEcSwAQRXvqVqjterhkbUhNNWA+IPoiw4PBqc3v7SpKmO\ni1vC/hVfSwKBgHNznh6CFUReGaeCGEEjBxnNaQYktMxDKAx2ECWdcJ/gc9A7HHwW\nZcIEkbMEY/95jBiRm+HdFRDvfB/efmemUR2IX9IM4hk3yyEu80rk45MNQsef0eAS\nXp28VZ7XpZsLzukbqZ04XopcFyPAGfi26C7hnqrueQzIujbCjuiaIAQtAoGAemaD\nyP9E3FWqlweQL4DdfE50zXYv5ulECEK7q1+4JHqqMzwXeYCXWwKfWH2WeGVqrBHm\n3CsLcaPEmoEDKskdkXubt2Umxp9CrvaXVFT8ra1XPjId0fJziSgzU2TeF7smicke\nl8NLbgkRuZnhAAd83EjTzRg5AdmnXsasXXATO68CgYAD+yGS6DqghN2Pg09AorE6\nCPjSaISZI1Ea2Z5nMFZ9PF9dRyrUqLlltKgt1TQUAxS13hOaOs9jLiNMcL6rcFOO\nKh2jY9Z00ktbgX2CDqzWKqbn9juiveNM3joEZ8Ky2HvVohQxi8ajuTOcR3nbyLys\nYttHvFVJiNtzQuH/DC2ENA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-9huuarq0p2ym@musicstream-1549374372658.iam.gserviceaccount.com",
+  "client_id": "106870329873808098198",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-9huuarq0p2ym%40musicstream-1549374372658.iam.gserviceaccount.com"
+}

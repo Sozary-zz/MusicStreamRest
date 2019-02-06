@@ -1,0 +1,11 @@
+{
+    "config": {
+        "encoding": "FLAC",
+        "sampleRateHertz": 16000,
+        "languageCode": "fr-FR",
+        "enableWordTimeOffsets": false
+    },
+    "audio": {
+        "uri": "http://localhost:8585/Rue%20Michel%20de%20Montaigne.flac"
+    }
+}
